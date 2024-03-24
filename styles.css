@@ -1,6 +1,17 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+ 
  body {
+   
       font-family: Arial, sans-serif;
-      background-color: #f0f0f0;
+      background-image: url('./background.webp');
+      background-repeat: no-repeat; 
+       /*background-position: center; */
+      background-size: cover; 
+      background-color: #0d56c4;
     }
     #container {
       width: 300px;
