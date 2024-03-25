@@ -7,16 +7,17 @@ html, body {
  body {
    
       font-family: Arial, sans-serif;
-      background-image: url('./background.webp');
+      background-image: url('./images/size.jpg');
       background-repeat: no-repeat; 
-       /*background-position: center; */
-      background-size: cover; 
+      background-position: center; 
+      background-size: cover;  
       background-color: #0d56c4;
     }
     #container {
       width: 300px;
       margin: 50px auto;
       padding: 20px;
+      background-image: url('./images/bc.gif');
       background-color: #fff;
       border-radius: 10px;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
